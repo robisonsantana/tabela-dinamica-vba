@@ -26,7 +26,8 @@ Aprofundei-me na criação e manipulação de tabelas dinâmicas utilizando o VB
 
 Por fim, explorei a geração de gráficos dinâmicos a partir dos dados analisados, permitindo uma visualização clara e intuitiva das tendências e padrões presentes nos conjuntos de dados.
 
-Claro, aqui está o final do texto editado levando em consideração que há apenas um arquivo de código no repositório:
+![image](https://github.com/robisonsantana/tabela-dinamica-vba/assets/153875139/e383426a-75b2-4d87-9216-175007c06868)
+Explorando o gráfico de colunas empilhadas, é notável como o Centro se destaca como a região mais lucrativa, seguida pelo Leste e Oeste. Fiquei surpreso ao ver que os Cadernos lideram em receita, seguidos de perto pelas Canetas, enquanto as Mesas têm a menor receita. É interessante observar como o Centro contribui significativamente para a receita total, com os Cadernos e Canetas desempenhando papéis cruciais nesse aspecto. Essas revelações não apenas lançam luz sobre os padrões de receita, mas também oferecem insights valiosos para futuras estratégias de negócios e tomadas de decisão.
 
 ---
 
@@ -45,4 +46,4 @@ Este repositório é aberto a contribuições. Se você tiver sugestões de melh
 Espero que este material seja útil para expandir seus conhecimentos em análise de dados com VBA. Boa exploração!
 
 Atenciosamente,
-Robison
+Robison.
